@@ -1,5 +1,5 @@
-Discord Emojisinden Fotoğrafa Dönüştürücüsüne Hoşgeldiniz!
+Discord'daki emojileri fotoğrafa dönüştürme aracına HOŞGELDİNİZ!
 Bu program Discord'daki bütün emojileri istediğiniz bir fotoğraf veya video formatına dönüştürür.
 Dönüştürmek istediğiniz emojiyi seçmek için Emoji ID'sini girin.
 (Bir emojinin ID'sini öğrenebilmek için "\:istenilen_emoji-ismi:" herhangi bir kanala bu formatta bir mesaj gönderiniz.
-Sonrasında ise gönderdiğiniz mesajtaki numaraları aşağıya kopyalayınız.)
+Sonrasında ise gönderdiğiniz mesajdaki numaraları aşağıya kopyalayınız.)
